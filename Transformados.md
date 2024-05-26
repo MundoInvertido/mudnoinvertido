@@ -1,22 +1,3 @@
----
-quickshare-date: 2024-05-23 15:58:52
-quickshare-url: https://noteshare.space/note/clwjm9i3q1378501mwpszgtfv5#Wlv9KLDOzPLvEyqbVFKYgqqkYP/Sv3MPUgnp1eU2gnE
-created: 2024-04-06T11:16
-updated: 2024-05-26T17:35
-tipo: Anotação geral
-Área: 
-tags:
-  - Bibliográfica
-  - Literatura
-  - Permanente
-  - Template
-Status:
-  - Não iniciado
-  - Em andamento
-  - Concluído
-share: true
----
-
 > [!Note] Romanos 12:1,2
 > Por isso, eu os exorto, irmãos, por meio das misericórdias de Deus, a apresentarem seu corpo como sacrifício vivo, santo e agradável a Deus, a sua verdadeira adoração. E não se conformem a esta era, mas sejam transformados por meio da renovação da sua mente, de modo que estejam aptos a aprovar o que é a vontade de Deus, isto é, o que é bom, agradável e perfeito
 
@@ -27,7 +8,7 @@ Durante os capítulos 1 a 11, Paulo descreve a situação do homem, desde caído
 
 O apóstolo traz uma exortação para aqueles irmãos baseada nas **misericórdias de Deus**. Essa graça que nos resgatou enquanto ainda erámos mortos (Ef 2.1-10), é o que nos mantêm vivos em Cristo (1Co 15.22).
 
-> [!NOTE] 1Co 15.22 - NVI
+> **1Co 15.22 - NVI**
 Pois da mesma forma como em Adão todos morrem, em Cristo todos serão vivificados.
 
 
@@ -69,6 +50,7 @@ O sacrifício é caracterizado por três adjetivos:
 ### Adoração Racional
 
 ![](https://imageio.forbes.com/specials-images/imageserve/633e22af71c3bea087209bbe/brainstorming--critical-thinking--reflective-thinking--collaboration--deep-thinking-/960x0.jpg?height=522&width=711&fit=bounds)
+
 **Adoração racional** (*logikēn*) ou espiritual é a adoração conforme Deus quer. É a adoração verdadeira, apropriada, contrastando com a adoração ritualística sem entendimento. É uma adoração que **entende a vontade de Deus**, dando o que ele quer.
 
 > **Jo 4:23 - NVI** 
