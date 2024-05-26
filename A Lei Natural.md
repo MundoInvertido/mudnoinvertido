@@ -1,17 +1,3 @@
----
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
-  - Literatura
-created: 2024-04-06T11:16
-updated: 2024-05-08T15:05
-tipo: Anotação geral
-Área: Teologia
-Status:
-  - Em andamento
-share: true
----
-
 > [!Note]
 >  Assim como existe a lei da gravidade que governa todos os corpos no planeta terra, também há uma lei  que rege todo o comportamento humano.
 
