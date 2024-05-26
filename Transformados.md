@@ -1,7 +1,7 @@
->  Romanos 12:1,2
-> Por isso, eu os exorto, irmãos, por meio das misericórdias de Deus, a apresentarem seu corpo como sacrifício vivo, santo e agradável a Deus, a sua verdadeira adoração. E não se conformem a esta era, mas sejam transformados por meio da renovação da sua mente, de modo que estejam aptos a aprovar o que é a vontade de Deus, isto é, o que é bom, agradável e perfeito
+#Romanos 12:1,2
+Por isso, eu os exorto, irmãos, por meio das misericórdias de Deus, a apresentarem seu corpo como sacrifício vivo, santo e agradável a Deus, a sua verdadeira adoração. E não se conformem a esta era, mas sejam transformados por meio da renovação da sua mente, de modo que estejam aptos a aprovar o que é a vontade de Deus, isto é, o que é bom, agradável e perfeito
 
-![|300](https://i.imgur.com/Y4GfGbv.png)
+![|100](https://i.imgur.com/Y4GfGbv.png)
 Durante os capítulos 1 a 11, Paulo descreve a situação do homem, desde caídos, injustos, escravos do pecado, passando para reconciliados, justificados, eleitos. Com base nessa mudança de paradigma, ele exorta aquela igreja, e a nós também, a enxergamos as misericórdias de Deus como base para uma vida de entre a Ele.
 
 ### As misericórdias de Deus
