@@ -92,7 +92,7 @@ O cristão não pertence mais a essa **era (*αἰῶνι*)**, mas ao reino de C
 
 ### Transformados
 
-![[Pasted image 20240514120745.png|Pasted image 20240514120745.png]]
+![Pasted image 20240514120745.png|Pasted image 20240514120745.png](https://static.escolakids.uol.com.br/2021/04/borboleta.jpg)
 A segunda exortação de Paulo é para ser **transformados (*μεταμορφοῦσθε*)**, ou seja, uma mudança total, mudança da natureza (LouwNida - 13.53), que só é possível pela **renovação (atividade contínua) da mente** resultante exclusivamente da obra do Espírito.
 
 >  Rm 8:4-9 - NVI 
@@ -122,7 +122,7 @@ Analisamos o mundo e nossa forma de viver conforme a vontade de Deus. Isso não 
 
 ### Aptos para aprovar a vontade de Deus
 
-![[Super (1).png|500]]
+![Super (1).png|500](https://i.imgur.com/HXHPC5m.png)
 
 Somente aqueles que foram transformados pela renovação interior são capazes de **aprovar a vontade de Deus**. Os ímpios tem suas mentes desqualificadas para avaliar a verdade sobre Deus (1.28), mas aqueles que passaram pela metamorfose do Espírito consegue compreender a vontade (direção) de Deus.
 
